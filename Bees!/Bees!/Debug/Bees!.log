@@ -1,0 +1,40 @@
+﻿Build started 16/12/2015 10:37:46.
+     1>Project "C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Bees!\Bees!.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt cFont.cpp
+         cFont.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0" /AI"C:\Program Files (x86)\Windows Kits\8.1\References\CommonConfiguration\Neutral" /Zi /clr /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm- /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.0\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib "End Screen.cpp" "Front Menu.cpp"
+         End Screen.cpp
+         Front Menu.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Debug\Bees!.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /ASSEMBLYRESOURCE:"Debug\Bees.End Screen.resources" /ASSEMBLYRESOURCE:"Debug\Bees.Front Menu.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Debug\Bees!.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Debug\Bees!.lib" /MACHINE:X86 Debug\asteroidsGame.obj
+         Debug\cAsteroid.obj
+         Debug\cBkGround.obj
+         Debug\cBullet.obj
+         Debug\cFont.obj
+         Debug\cFontMgr.obj
+         Debug\cInputMgr.obj
+         Debug\cRocket.obj
+         Debug\cSound.obj
+         Debug\cSoundMgr.obj
+         Debug\cSprite.obj
+         Debug\cTexture.obj
+         Debug\cWNDManager.obj
+         "Debug\End Screen.obj"
+         "Debug\Front Menu.obj"
+         Debug\main.obj
+         Debug\windowOGL.obj
+         Libraries\alut.lib
+         Libraries\DevIL.lib
+         Libraries\freeglut.lib
+         Libraries\ftgl.lib
+         Libraries\ILU.lib
+         Libraries\ILUT.lib
+         Libraries\OpenAL32.lib
+         Bees!.vcxproj -> C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Debug\Bees!.exe
+     1>Done Building Project "C:\Users\Euan\documents\visual studio 2013\Projects\Bees!\Bees!\Bees!.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:09.63
